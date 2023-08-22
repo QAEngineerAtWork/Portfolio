@@ -5,7 +5,7 @@
 
 Навыки и технологии
 Jira, qase.io, SQL, Postman, Fiddler, Swagger, Trello,
-SoapUI, Android Studio, xCode, Charles, Chrome DevTools.
+SoapUI, Charles, Chrome DevTools.
 
 Проекты
 Проект 1: тест веб-приложения для учителей от Skyeng
