@@ -10,7 +10,7 @@
 ## Проекты
 **:computer: Тест веб-приложения для учителей от Skyeng**
 
-> [Ссылка на проект](https://plume-hurricane-d62.notion.site/0a2a45124c0b43d1a04c2d2375252fc1)
+> [Ссылка на проект и отчет по тестированию](https://plume-hurricane-d62.notion.site/0a2a45124c0b43d1a04c2d2375252fc1)
 
 #### Задача:
 
